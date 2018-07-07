@@ -1,0 +1,23 @@
+{
+  "name": "csv-analyzer",
+  "description": "Parse and analyze a CSV file to extract values for Column Names, Sizes, Data Types, and have options to load CSV Data into memory, scan for questionable or sensitive Database content, append a unique id, row number, and ISO timestamp columns",
+  "version": "0.0.1",
+  "author": {
+    "name"  :"David Maciejewski",
+    "email" :"dmaciejewski1@gmail.com"
+  },
+  "main" : "app.js",
+  "repository" : {
+    "type" : "git",
+    "url"  : "https://github.com/dmaciejewski1/csvMultiTool"
+  },
+  "license": "MIT",
+   "keywords": ["data", "database", "Db", "DB", "db", "layer", "node", "warehouse", "information","transaction", "injection", "business", "mine", "mining","SQL", "PLSQL", "PL/SQL", "select", "insert", "statements", "query", "queries", "querying", "clauses", "ETL", "add-on","API", "tool", "library", "module"],
+   "dependencies": {
+     "comma-separated-values" : "^3.6.4",
+     "sql-sniffer" : "^0.0.1"
+   },
+   "scripts": {
+     "test": "mocha"
+   }
+}

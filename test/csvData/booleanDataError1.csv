@@ -1,0 +1,6 @@
+id,name,boolField,text
+1,csv-analyzer,"true","Here I am"
+2,data,"false","testing 123"
+3,csv,"true","Yeah!"
+4,test,"testing123","test"
+5,data,"false","123ABC"

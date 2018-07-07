@@ -1,0 +1,10 @@
+.DS_Store
+
+# Dependency directory
+node_modules
+
+# Test data
+lims.csv
+
+# npm
+npm-debug.log

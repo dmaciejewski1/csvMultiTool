@@ -1,0 +1,5 @@
+id,name,text
+1,csv-analyzer,"Here I am"
+2,"sqlInjected","her is a string with SQL injection ;DROP TABLE someTable"
+3,data,"testing 123"
+4,"more injection '/* create table someTable'"," another line of injection ';drop table someTable"
